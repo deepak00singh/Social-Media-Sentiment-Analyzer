@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Sentiment Analyzer",
+  "description": "An interactive dashboard that simulates streaming social media posts for a given hashtag, analyzes their sentiment using AI, and visualizes the results in real-time.",
+  "requestFramePermissions": []
+}
