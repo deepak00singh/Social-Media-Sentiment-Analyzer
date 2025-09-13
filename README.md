@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Social Media Sentiment Analyzer
 
-# Run and deploy your AI Studio app
+**Live demo:** https://social-media-sentiment-analyzer.netlify.app/  
+**GitHub:** https://github.com/deepak00singh/Social-Media-Sentiment-Analyzer
 
-This contains everything you need to run your app locally.
+**Short:** An ML-backed tool to analyze sentiment (positive/negative/neutral) from social media text. Useful demo combining frontend and ML logic.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Ypt7qOKgiuYBmh6zEyhOtPUi71sBOJOl
+**Features**
+- Analyze text/samples for sentiment
+- Simple visualization of results
+- Frontend + ML integration (demo)
+- Deployed on Netlify
 
-## Run Locally
+**Tech**
+React (frontend), Python (ML inference demo or backend), Netlify
 
-**Prerequisites:**  Node.js
+**Run locally**
+1. `git clone https://github.com/deepak00singh/Social-Media-Sentiment-Analyzer.git`
+2. `cd Social-Media-Sentiment-Analyzer`
+3. `npm install`
+4. `npm start`
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Contact**
+Deepak — B.Tech CSE (AI & ML)  
+GitHub: https://github.com/deepak00singh
